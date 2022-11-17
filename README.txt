@@ -9,7 +9,7 @@ Creación del cliente y servidor. Consultas básicas
 - Generado/a   Tania
 - Verificador/a  Tania
 - Verificador/a  Tania
-- Productor/a del video de muestra Tania  (url del video)
+- Productor/a del video de muestra Tania  (url del video) 
 
 ## Versión 2
 
@@ -20,8 +20,8 @@ Exlusión mutua. Lista de conectados. Servidor concurrente. Inicio de la interfa
 - Verificador/a  Tania
 - Productor/a del video de muestra Tania  (url del video) / video de la interfaz (url del video)
 
-- Video v2:
-- Video Interfaz:
+- Video v2: https://drive.google.com/drive/folders/1Akyfp3DeitltZg25fhpBU-iEKzsYmY38?usp=share_link
+- Video Interfaz: https://drive.google.com/drive/folders/1Akyfp3DeitltZg25fhpBU-iEKzsYmY38?usp=share_link
 
 ## Versión 3
 
@@ -31,7 +31,7 @@ Lista de conectados se actualiza automaticamente y funcionando en shiva
 - Verificador/a  Tania
 - Comunicador/a y Productor/a del video de muestra Tania
 
-- URL Video v3: 
+- URL Video v3: https://drive.google.com/drive/folders/1Akyfp3DeitltZg25fhpBU-iEKzsYmY38?usp=share_link
 
 ## Versión 4
 
@@ -41,7 +41,7 @@ Usuario conectado invita a otros a jugar. A los usuarios invitados les llega una
 - Verificador/a  Tania
 - Comunicador/a y Productor/a del video de muestra Tania
 
-- URL Video v4:
+- URL Video v4:- https://drive.google.com/drive/folders/1Akyfp3DeitltZg25fhpBU-iEKzsYmY38?usp=share_link
 
 ##Versión 5 
 
@@ -51,7 +51,7 @@ Una vez los jugadores han acordado jugar la partida, cualquier jugador debe pode
 - Verificador/a Tania
 - Comunicador/a y Productor/a del video de muestra Tania
 
-- URL Video v5: 
+- URL Video v5: https://drive.google.com/drive/folders/1Akyfp3DeitltZg25fhpBU-iEKzsYmY38?usp=share_link
 
 ## Versión Definitiva
 
@@ -61,4 +61,4 @@ Funcionalides del juego implementadas. Contiene errores a la hora de asignar/pas
 - Verificador/a Tania
 - Comunicador/a y Productor/a del video de muestra Tania
 
-- URL Video Definitivo: 
+- URL Video Definitivo: https://drive.google.com/drive/folders/1Akyfp3DeitltZg25fhpBU-iEKzsYmY38?usp=share_link
